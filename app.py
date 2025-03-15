@@ -1,4 +1,4 @@
-# Application
+
 from datetime import datetime, timedelta
 import calendar
 
